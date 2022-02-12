@@ -1,6 +1,6 @@
 # Phonebook
 
-#### Program allow user to execute following commands:
+## Program allow user to execute following commands:
 
 ***Load***
 
